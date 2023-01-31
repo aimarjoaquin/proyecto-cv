@@ -1,0 +1,18 @@
+ul.no-bullets {
+	list-style-type: none; /* Remove bullets */
+	padding: 0; /* Remove padding */
+	margin: 0; /* Remove margins */
+}
+
+.white-font{
+	color:white !important;
+}
+
+h1{
+	margin-top: 0 !important;
+    margin-bottom: 0.5rem !important;
+    font-weight: 700 !important;
+    line-height: 1.2 !important;
+    color: #343a40 !important;
+    font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
